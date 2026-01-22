@@ -1,10 +1,15 @@
 # MiteneDownloader
 みてねから写真・動画をダウンロード
 
+<img alt="hogehoge" src="Image/window.png" width="50%">
+
 個人用に作ったWindows用ソフトを公開
 
 ## ソフト入手
-- [Release](https://github.com/kitamux68k/MiteneDownloader/releases)ページからMiteneDownloader_vx.x.x.zipをダウンロード
+- [Release](https://github.com/kitamux68k/MiteneDownloader/releases)ページからMiteneDownloader_vx.x.x.zipをダウンロードする。
+- zipファイルを右クリック＞プロパティをクリックし、セキュリティ＞許可するのチェックボックスにチェックを入れてOKをクリック。
+  <img alt="プロパティ" src="Image/property.png" width="30%">
+- zipファイルを展開する。
 
 ## 使用方法
 1. 事前準備：「みてねブラウザ版」のアドレスを使用するため、みてねアプリから「家族設定」->「家族一覧」->「家族を招待する」->「ブラウザ版で招待」でアドレスを作成する。
