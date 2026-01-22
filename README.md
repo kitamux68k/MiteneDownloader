@@ -8,6 +8,7 @@
 ## ソフト入手
 - [Release](https://github.com/kitamux68k/MiteneDownloader/releases)ページからMiteneDownloader_vx.x.x.zipをダウンロードする。
 - zipファイルを右クリック＞プロパティをクリックし、セキュリティ＞許可するのチェックボックスにチェックを入れてOKをクリック。
+  
   <img alt="プロパティ" src="Image/property.png" width="30%">
 - zipファイルを展開する。
 
